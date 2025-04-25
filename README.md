@@ -48,9 +48,7 @@ A personal portfolio website built with Django to showcase projects, skills, and
 
 6. Access the site at http://127.0.0.1:8000/
 
-## Deployment
 
-This project is configured for deployment on PythonAnywhere. See [pythonanywhere_deploy.md](pythonanywhere_deploy.md) for detailed instructions.
 
 ## Structure
 
@@ -64,4 +62,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or suggestions, please contact me at [your-email@example.com].
+For any inquiries or suggestions, please contact me at itzmevicky111@gmail.com.
