@@ -1,46 +1,25 @@
-# Python bytecode
+﻿# Python
 __pycache__/
 *.py[cod]
 *$py.class
+*.so
 
-# Distribution / packaging
-*.egg
-*.egg-info/
-dist/
-build/
-eggs/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-
-# Django stuff
-*.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
-media
-
-# Virtual environments
+# Virtual Environment
 venv/
 env/
 ENV/
 
-# IDE specific files
-.idea/
+# Django
+*.log
+db.sqlite3
+media/
+
+# VS Code
 .vscode/
-*.swp
-*.swo
 
-# Environment variables
-.env
+# Local development settings
+personal_portfolio/local_settings.py
 
-# macOS
+# System Files
 .DS_Store
-
-# Windows
 Thumbs.db
-ehthumbs.db
-Desktop.ini
